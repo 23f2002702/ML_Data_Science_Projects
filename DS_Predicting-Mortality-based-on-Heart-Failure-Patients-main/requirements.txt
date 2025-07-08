@@ -1,0 +1,12 @@
+## Here’s a clean and minimal requirements.txt based on the libraries used in the notebook. This will ensure anyone running the project can install all necessary packages.
+
+1. pandas
+2. numpy
+3. matplotlib
+4. seaborn
+5. scikit-learn
+6. xgboost
+7. tensorflow
+8. lime
+9. imbalanced-learn
+10. shap
