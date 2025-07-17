@@ -1,7 +1,8 @@
 # 📊 Machine Learning & Data Science Projects
 
 Welcome! This repository contains my practical **Data Science** and **Machine Learning** projects. 
-Each project folder includes its own detailed README and full Python notebooks.
+
+Each project folder includes its own detailed README and full Jupyter notebooks.
 
 ---
 
