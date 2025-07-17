@@ -1,21 +1,17 @@
 # 📊 Machine Learning & Data Science Projects
 
-Welcome! This repository contains my practical **Data Science** and **Machine Learning** projects — built during my **Data Science & Applications degree at IIT Madras** and my internship with **1Stop x IIT Guwahati**.
-
-Each project folder includes its own detailed README and full Jupyter notebooks.
+Welcome! This repository contains my practical **Data Science** and **Machine Learning** projects 
+Each project folder includes its own detailed README and full Python notebooks.
 
 ---
 
 ## 📂 Projects
 
-- 🫀 **[Heart Failure Mortality Prediction](./Heart_Failure_Mortality_Prediction)**  
+- 🫀 **[Heart Failure Mortality Prediction])**  
   Predict patient survival using ML models, SMOTE, and LIME explainability.
 
-- 📢 **[Hate Speech Detection](./Hate_Speech_Detection)**  
+- 📢 **[Hate Speech Detection]**  
   NLP pipeline to classify tweets as hate speech, offensive, or neutral.
-
-- 💳 **[Credit Risk EDA](./Credit_Risk_EDA)**  
-  Exploratory analysis of credit data to uncover trends and risk factors.
 
 ---
 
